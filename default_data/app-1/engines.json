@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Google",
+    "type": "leaf",
+    "content": "https://www.google.com/search?q=%s"
+  },
+  {
+    "name": "Bing",
+    "type": "leaf",
+    "content": "https://www.bing.com/search?q=%s"
+  },
+  {
+    "name": "Baidu",
+    "type": "leaf",
+    "content": "https://www.baidu.com/s?wd=%s"
+  },
+  {
+    "name": "Yahoo!",
+    "type": "leaf",
+    "content": "https://search.yahoo.com/search?p=%s"
+  },
+  {
+    "name": "Yandex",
+    "type": "leaf",
+    "content": "https://yandex.com/search/?text=%s"
+  },
+  {
+    "name": "Others",
+    "type": "branch",
+    "content": [
+      {
+        "name": "AOL",
+        "type": "leaf",
+        "content": "https://yandex.com/search/?text=%s"
+      },
+      {
+        "name": "Ask",
+        "type": "leaf",
+        "content": "https://www.ask.com/web?qAOL=%s"
+      },
+      {
+        "name": "DuckDuckGo",
+        "type": "leaf",
+        "content": "https://duckduckgo.com/?q=%s"
+      },
+      {
+        "name": "Ecosia",
+        "type": "leaf",
+        "content": "https://www.ecosia.org/search?q=%s"
+      },
+      {
+        "name": "Internet Archive",
+        "type": "leaf",
+        "content": "https://archive.org/search?query=%s"
+      },
+      {
+        "name": "NAVER",
+        "type": "leaf",
+        "content": "https://search.naver.com/search.naver?query=%s"
+      }
+    ]
+  },
+  {
+    "name": "wiki",
+    "type": "leaf",
+    "content": "https://wikipedia.org/w/index.php?search=%s"
+  }
+]
