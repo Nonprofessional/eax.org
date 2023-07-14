@@ -13,5 +13,10 @@
     "name": "Google Hacking",
     "type": "leaf",
     "content": "/app/3"
+  },
+  {
+    "name": "RDAP Client",
+    "type": "leaf",
+    "content": "/app/4"
   }
 ]
